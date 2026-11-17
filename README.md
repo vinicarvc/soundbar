@@ -18,7 +18,7 @@ macOS 14.2 or later, Xcode command line tools (Swift 5.9+).
 
 ## Build & run
 ```bash
-git clone https://github.com/<you>/soundbar.git
+git clone https://github.com/vinicarvc/soundbar.git
 cd soundbar
 ./build.sh
 open build/SoundBar.app
